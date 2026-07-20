@@ -120,25 +120,6 @@ The simulator generates a graph of **Required Input Torque vs Crank Angle**, hig
 
 ---
 
-## Screenshots
-
-> Add screenshots of the following windows here:
-
-- Main Simulator
-- Kinematic Analysis Window
-- Dynamic Analysis Window
-
-Example:
-
-```md
-![Main Simulator](images/main_simulator.png)
-
-![Kinematic Analysis](images/kinematic_analysis.png)
-
-![Dynamic Analysis](images/dynamic_analysis.png)
-```
-
----
 
 ## Future Improvements
 
